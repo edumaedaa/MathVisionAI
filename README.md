@@ -19,6 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
+![Total Commits](https://img.shields.io/badge/Total%20Commits-3-brightgreen?style=for-the-badge)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -235,3 +236,5 @@ Project Link: [https://github.com/edumaedaa/MathVisionAI](https://github.com/edu
 
 [fastapi-shield]: https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white
 [fastapi-url]: https://fastapi.tiangolo.com/
+[commits-shield]: https://img.shields.io/github/commit-counts/edumaedaa/MathVisionAI.svg?style=for-the-badge
+[commits-url]: https://github.com/edumaedaa/MathVisionAI/commits
