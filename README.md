@@ -63,11 +63,14 @@ For test
 
 ### Built With
 
-* [![Python][python-shield]][python-url]
-* [![PyTorch][pytorch-shield]][pytorch-url]
-* [![FastAPI][fastapi-shield]][fastapi-url]
-* [![JavaScript][javascript-shield]][javascript-url]
-* [![React][react-shield]][react-url]
+<!--* [![Python][python-shield]][python-url]
+* [![PyTorch][pytorch-shield]][pytorch-url] -->
+* ![image](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white)
+* ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+* ![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+* ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+* ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+* ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
